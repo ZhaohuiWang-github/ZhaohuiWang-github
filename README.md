@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Welcome to Zhaohui's github! 😄    
-I graduated from [Tsinghua University](https://www.tsinghua.edu.cn/en/) as an undergraduate and am currently a graduate student at [the University of North Carolina](https://www.unc.edu/) at Chapel Hill.  
+I graduated from [Tsinghua University](https://www.tsinghua.edu.cn/en/) as an undergraduate and am currently a graduate student at [the University of North Carolina at Chapel Hill](https://www.unc.edu/).  
 I used to work at [Tencent](https://www.tencent.com/en-us) as an AI product manager in Tencent Cloud.
