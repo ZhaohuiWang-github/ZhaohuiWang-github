@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Zhaohui's github! 👋
 
 <!--
 **ZhaohuiWang-github/ZhaohuiWang-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to Zhaohui's github! 😄    
 I graduated from [Tsinghua University](https://www.tsinghua.edu.cn/en/) as an undergraduate and worked at [Tencent](https://www.tencent.com/en-us) as an AI product manager in Tencent Cloud.  
 I am currently a graduate student at [the University of North Carolina at Chapel Hill](https://www.unc.edu/).  
