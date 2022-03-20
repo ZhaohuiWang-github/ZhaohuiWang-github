@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I graduated from [Tsinghua University](https://www.tsinghua.edu.cn/en/) as an undergraduate and worked at [Tencent](https://www.tencent.com/en-us) as an AI product manager in Tencent Cloud.  
 I am currently a graduate student at [the University of North Carolina at Chapel Hill](https://www.unc.edu/).  
-Here is my [personal website](https://zhaohuiwang-github.github.io/Home/).
+My personal website is https://zhaohuiwang-github.github.io/Home/.
